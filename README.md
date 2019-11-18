@@ -1,4 +1,4 @@
-# 谢汐作品集
+# 谢汐课程作品集
 
 ### [个人学习网站](https://achac.github.io/) （点击可跳转至网页，内含部分作品）
 ### [闹钟APP原型设计](https://achac.github.io/alarm-clock/) 
